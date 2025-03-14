@@ -22,5 +22,3 @@ Buka file `.R` atau `.Rmd` lalu jalankan script sesuai instruksi di dalam file.
 - R
 - RStudio
 - Package dasar R (misal: `tidyverse`, `ggplot2`, `dplyr`, dll sesuai kebutuhan praktikum)
-
-## 📁 Struktur Folder (opsional)
